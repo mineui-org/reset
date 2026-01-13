@@ -70,7 +70,7 @@
         ```scss
         @use '@mineui/reset';
         @use '@mineui/semantic';
-        
+
         // Your styles here
         ```
 
@@ -163,7 +163,7 @@
             <a href="#main" class="skip-to-main">
               Skip to main content
             </a>
-            
+
             <main id="main">
               <!-- Content -->
             </main>
@@ -183,7 +183,7 @@
         ```css
         /* No outline on mouse click */
         :focus { outline: none; }
-        
+
         /* Visible outline on keyboard navigation */
         :focus-visible {
           outline: 2px solid var(--border-focus);
