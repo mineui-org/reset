@@ -1,6 +1,6 @@
 {
 	"name"                             : "@mineui/reset",
-	"version"                          : "0.0.3",
+	"version"                          : "0.0.4",
 	"description"                      : "CSS reset to use with utilities",
 	"keywords"                         : ["mine", "ui", "reset"],
 	"license"                          : "MIT",

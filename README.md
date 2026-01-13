@@ -8,10 +8,9 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-0.0.3-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.4-black"/>
     <a href="https://github.com/mineui-org"><img src="https://img.shields.io/badge/🔥-@mineui-black"/></a>
     <br>
-    <img src="https://img.shields.io/badge/coverage-100%25-brightgreen" alt="Test Coverage" />
     <img src="https://img.shields.io/github/issues/mineui-org/reset?style=flat" alt="Github Repo Issues" />
     <img src="https://img.shields.io/github/stars/mineui-org/reset?style=social" alt="GitHub Repo stars" />
 </div>
