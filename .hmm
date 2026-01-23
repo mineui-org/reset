@@ -5,7 +5,7 @@
 	"repo": {
 		"org"           : "mineui",
 		"name"          : "reset",
-		"version"       : "0.0.5",
+		"version"       : "0.0.6",
 		"desc"          : "CSS reset to use with utilities",
 		"kw"            : ["mine", "ui", "reset"],
 		"license"       : "MIT",
